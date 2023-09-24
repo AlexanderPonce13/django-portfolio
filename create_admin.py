@@ -6,4 +6,4 @@ django.setup()
 
 from django.contrib.auth.models import User
 
-User.objects.create_superuser('urdanigo', 'correo@ejemplo.com', '2005')
+User.objects.create_superuser('manuel04', 'correo@ejemplo.com', '2005')
